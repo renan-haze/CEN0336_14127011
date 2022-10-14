@@ -1,0 +1,10 @@
+pwd
+
+ls -F
+
+mv bash_script.sh lista_HOME.txt
+
+date
+
+
+
